@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jcasillasjr
 - 👀 I’m interested in analytics engineering
-- 🌱 I’m currently learning data analytics
+- 🌱 I’m currently learning analytics engineering
 - 💞️ I’m looking to collaborate on data
 - 📫 How to reach me on linkedin. 
 
